@@ -7,7 +7,7 @@ function countup() {
 function countDown() {
   setTimeout(function countandgive()
     { 
-    alert("TIME-OUT! You got " +counter+ " Teams!");
+    alert("Good work anon!  You got" +counter+ "masks!");
      
      }, 20000);
 
